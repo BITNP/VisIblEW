@@ -1,0 +1,11 @@
+﻿[
+  {
+    "outputFile": "wwwroot/css/site.css",
+    "inputFile": "wwwroot/raw/css/site.less"
+  },
+
+  {
+    "outputFile": "wwwroot/js/index.js",
+    "inputFile": "wwwroot/raw/js/index.js"
+  }
+]
